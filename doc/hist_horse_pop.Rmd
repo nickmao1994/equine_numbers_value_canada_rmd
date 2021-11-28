@@ -91,4 +91,8 @@ province_plot <- horse_pop %>%
 province_plot
 ```
 
+```{r repo history, fig.width=6, fig.height=2}
+include_graphics("repo_his.png")
+```
+
 # References
